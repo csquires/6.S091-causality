@@ -56,3 +56,10 @@ completion of the problem sets.
 **Tuesday, Jan 31**: Causal Representation Learning I: Learning Latent Causal Structure
 \
 **Thursday, Feb 2**: Causal Representation Learning II: Domain Generalization
+
+### Problem Sets
+**Thursday, Jan 19**: PSet 1 due at 2pm EST
+\
+**Thursday, Jan 26**: PSet 2 due at 2pm EST
+\
+**Thursday, Feb 2**: PSet 3 due at 2pm EST
