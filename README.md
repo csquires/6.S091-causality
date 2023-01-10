@@ -1,7 +1,9 @@
 # 6.S091: Causality
 ### Policy Evaluation, Structure Learning, and Representation Learning
 
-The official syllabus is at [https://github.com/csquires/6.S091-causality/blob/main/syllabus.pdf](https://github.com/csquires/6.S091-causality/blob/main/syllabus.pdf)
+The official syllabus is at [https://github.com/csquires/6.S091-causality/blob/main/syllabus.pdf](https://github.com/csquires/6.S091-causality/blob/main/syllabus.pdf).
+
+Lecture notes and links to recordings will be posted on this page.
 
 ### Details
 **Instructor**: Chandler Squires
