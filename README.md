@@ -60,7 +60,7 @@ completion of the problem sets.
 ### Problem Sets
 - Problem sets must be done in LaTeX
 - Printed problem sets must be turned in at the beginning of lecture.
-
+- Due dates:
 **Thursday, Jan 19**: PSet 1 due at 1pm EST
 \
 **Thursday, Jan 26**: PSet 2 due at 1pm EST
