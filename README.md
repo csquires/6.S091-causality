@@ -1,6 +1,10 @@
 # 6.S091: Causality
 ### Policy Evaluation, Structure Learning, and Representation Learning
 
+The official syllabus is at [https://github.com/csquires/6.S091-causality/blob/main/syllabus.pdf](https://github.com/csquires/6.S091-causality/blob/main/syllabus.pdf).
+
+Lecture notes and links to recordings will be posted on this page.
+
 ### Details
 **Instructor**: Chandler Squires
 \
@@ -28,16 +32,6 @@ data and allow for unobserved confounding. We will also cover experimental desig
 structure learning. In the final third of the course, we will discuss the emerging field of causal 
 representation learning, highlighting recent papers which connect machine learning with more traditional 
 causal principles.
-
-### Recommended Pre-requisites
-
-Knowledge of probability (level of 6.3700) and statistics (level of 18.650) is generally assumed. Familiarity 
-with Python is also assumed.
-
-### Grading and Problem Sets
-
-This course will be graded during MIT IAP for 6 units under P/D/F grading. Receiving a passing grade requires 
-completion of the problem sets.
 
 ### Schedule
 
