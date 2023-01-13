@@ -37,7 +37,7 @@ causal principles.
 
 **Tuesday, Jan 10**: Introduction to Structural Causal Models ([lecture notes](lectures/Lecture1.pdf), [recording](https://youtu.be/tOguq_esmk8))
 \
-**Thursday, Jan 12**: Policy Evaluation I: Identification ([lecture notes](lectures/Lecture2.pdf), [recording](https://youtu.be/xFaKbeAKLMU
+**Thursday, Jan 12**: Policy Evaluation I: Identification ([lecture notes](lectures/Lecture2.pdf), [recording](https://youtu.be/xFaKbeAKLMU))
 \
 **Tuesday, Jan 17**: Policy Evaluation II: Estimation
 \
