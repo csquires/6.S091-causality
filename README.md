@@ -8,7 +8,7 @@ Lecture notes and links to recordings will be posted on this page.
 ### Details
 **Instructor**: Chandler Squires
 \
-**TA**: Katherine Matton
+**TA**: Katie Matton
 \
 **Time**: Tuesday and Thursday, 1-3pm
 \
