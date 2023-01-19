@@ -51,6 +51,8 @@ causal principles.
 \
 **Thursday, Feb 2**: Causal Representation Learning II: Domain Generalization
 
+We will have study sessions on Wednesdays, 5:30-7:30, in 24-307.
+
 ### Problem Sets
 - Problem sets must be done in LaTeX
 - Printed problem sets must be turned in at the beginning of lecture.
