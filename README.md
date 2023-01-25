@@ -39,11 +39,11 @@ causal principles.
 \
 **Thursday, Jan 12**: Policy Evaluation I: Identification ([lecture notes](lecture_notes/Lecture2.pdf), [recording](https://youtu.be/xFaKbeAKLMU))
 \
-**Tuesday, Jan 17**: Policy Evaluation II: Estimation ([lecture notes](lecture_notes/Lecture3.pdf)
+**Tuesday, Jan 17**: Policy Evaluation II: Estimation ([lecture notes](lecture_notes/Lecture3.pdf))
 \
-**Thursday, Jan 19**: Causal Structure Learning I: Identifiability ([lecture notes](lecture_notes/Lecture4.pdf)
+**Thursday, Jan 19**: Causal Structure Learning I: Identifiability ([lecture notes](lecture_notes/Lecture4.pdf))
 \
-**Tuesday, Jan 24**: Causal Structure Learning II: The PC Algorithm and Greedy Algorithms ([lecture notes](lecture_notes/Lecture5.pdf)
+**Tuesday, Jan 24**: Causal Structure Learning II: The PC Algorithm and Greedy Algorithms ([lecture notes](lecture_notes/Lecture5.pdf))
 \
 **Thursday, Jan 26**: Causal Structure Learning III: Experimental Design
 \
