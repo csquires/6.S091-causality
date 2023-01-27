@@ -3,7 +3,7 @@
 
 The official syllabus is at [https://github.com/csquires/6.S091-causality/blob/main/syllabus.pdf](https://github.com/csquires/6.S091-causality/blob/main/syllabus.pdf).
 
-Lecture notes and links to recordings will be posted on this page.
+Lecture notes will be posted on this page. Recordings are [here](https://www.youtube.com/channel/UC7ilO3m_TDzOXULn7xWV1RQ).
 
 ### Details
 **Instructor**: Chandler Squires
@@ -39,11 +39,11 @@ causal principles.
 \
 **Thursday, Jan 12**: Policy Evaluation I: Identification ([lecture notes](lecture_notes/Lecture2.pdf), [recording](https://youtu.be/xFaKbeAKLMU))
 \
-**Tuesday, Jan 17**: Policy Evaluation II: Estimation
+**Tuesday, Jan 17**: Policy Evaluation II: Estimation ([lecture notes](lecture_notes/Lecture3.pdf))
 \
-**Thursday, Jan 19**: Causal Structure Learning I: Identifiability and Classical Approaches
+**Thursday, Jan 19**: Causal Structure Learning I: Identifiability ([lecture notes](lecture_notes/Lecture4.pdf))
 \
-**Tuesday, Jan 24**: Causal Structure Learning II: Gradient-based Approaches
+**Tuesday, Jan 24**: Causal Structure Learning II: The PC Algorithm and Greedy Algorithms ([lecture notes](lecture_notes/Lecture5.pdf))
 \
 **Thursday, Jan 26**: Causal Structure Learning III: Experimental Design
 \
