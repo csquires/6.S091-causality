@@ -62,4 +62,4 @@ We will have study sessions on Wednesdays, 5:30-7:30, in 24-307.
 \
 **Thursday, Jan 26**: PSet 2 due at 1pm EST
 \
-**Thursday, Feb 2**: PSet 3 due at 1pm EST
+**Friday, Feb 3**: PSet 3 due at 11:59pm EST
