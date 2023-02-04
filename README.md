@@ -45,11 +45,9 @@ causal principles.
 \
 **Tuesday, Jan 24**: Causal Structure Learning II: The PC Algorithm and Greedy Algorithms ([lecture notes](lecture_notes/Lecture5.pdf))
 \
-**Thursday, Jan 26**: Causal Structure Learning III: Experimental Design
+**Tuesday, Jan 31**: Causal Structure Learning III: Experimental Design ([lecture notes](lecture_notes/Lecture6.pdf))
 \
-**Tuesday, Jan 31**: Causal Representation Learning I: Learning Latent Causal Structure
-\
-**Thursday, Feb 2**: Causal Representation Learning II: Domain Generalization
+**Thursday, Feb 2**: Causal Representation Learning ([lecture notes](lecture_notes/Lecture7.pdf))
 
 We will have study sessions on Wednesdays, 5:30-7:30, in 24-307.
 
